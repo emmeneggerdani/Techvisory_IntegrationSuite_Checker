@@ -1,0 +1,16 @@
+{
+  "name": "techvisory-integrationsuite-checker",
+  "version": "1.0.0",
+  "description": "Prüft SAP Integration Suite Tenants auf nicht deployte oder veraltete Integration-Artefakte.",
+  "private": true,
+  "license": "PolyForm-Noncommercial-1.0.0",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

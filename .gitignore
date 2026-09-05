@@ -1,0 +1,10 @@
+# Abhängigkeiten
+node_modules/
+
+# Tenant-Zugangsdaten (Service Keys) - niemals ins Repo
+config/tenants/*.json
+!config/tenants/example.tenant.json
+
+# Betriebssystem-/Editor-Dateien
+.DS_Store
+Thumbs.db

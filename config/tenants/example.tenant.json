@@ -1,0 +1,14 @@
+{
+  "_hinweis": "Diese Datei kopieren (z.B. dev.tenant.json) und den Inhalt unten 1:1 durch den Inhalt des von SAP BTP heruntergeladenen Service Keys ersetzen - keine Anpassung am Service Key selbst nötig. Alle Felder, die mit '_' beginnen (wie dieses hier oder '_meta'), werden ignoriert und nicht an SAP geschickt.",
+  "_meta": {
+    "name": "DEV",
+    "color": "#1B7A3D"
+  },
+  "oauth": {
+    "clientid": "sb-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx!bxxxx96",
+    "clientsecret": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx=",
+    "url": "https://xxxxxxxx.it-cpi022.cfapps.ch20.hana.ondemand.com",
+    "createdate": "2025-01-01T00:00:00.000Z",
+    "tokenurl": "https://xxxxxxxx.authentication.ch20.hana.ondemand.com/oauth/token"
+  }
+}
