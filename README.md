@@ -32,6 +32,10 @@ zu Service Keys](#sicherheitshinweis-zu-service-keys).
    ```bash
    npm start
    ```
+   Unter Windows geht das auch per Doppelklick auf
+   [`start.bat`](start.bat) – startet den Server und öffnet danach
+   automatisch den Browser. Zum Stoppen im Server-Fenster **Strg+C**
+   drücken.
 6. Im Browser **http://localhost:3450** öffnen.
 
 ## Tenant hinzufügen
